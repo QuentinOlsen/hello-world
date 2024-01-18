@@ -1,2 +1,3 @@
 # hello-world
-hallo
+**Quentin Olsen**
+*Philanthropist*
